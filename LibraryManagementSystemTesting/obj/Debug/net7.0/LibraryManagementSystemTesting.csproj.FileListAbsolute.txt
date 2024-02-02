@@ -1,0 +1,324 @@
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\appsettings.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.staticwebassets.runtime.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.exe
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.deps.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.runtimeconfig.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.pdb
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.RazorAssemblyInfo.cache
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.RazorAssemblyInfo.cs
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.LibraryManagementSystemTesting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.build.LibraryManagementSystemTesting.props
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementSystemTesting.props
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LibraryManagementSystemTesting.props
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\scopedcss\bundle\LibraryManagementSystemTesting.styles.css
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\scopedcss\projectbundle\LibraryManagementSystemTesting.bundle.scp.css
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.csproj.CopyComplete
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\refint\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.pdb
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.genruntimeconfig.cache
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\obj\Debug\net7.0\ref\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\testhost.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\testhost.exe
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.framework.legacy.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\Qasim\Desktop\Ericsson\LibraryManagementSystemTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\testhost.exe
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\testhost.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\appsettings.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.staticwebassets.runtime.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.exe
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.deps.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.runtimeconfig.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\LibraryManagementSystemTesting.pdb
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\nunit.framework.legacy.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.csproj.AssemblyReference.cache
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.AssemblyInfoInputs.cache
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.AssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.csproj.CoreCompileInputs.cache
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.RazorAssemblyInfo.cache
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.RazorAssemblyInfo.cs
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.LibraryManagementSystemTesting.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.build.LibraryManagementSystemTesting.props
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagementSystemTesting.props
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LibraryManagementSystemTesting.props
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\scopedcss\bundle\LibraryManagementSystemTesting.styles.css
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\scopedcss\projectbundle\LibraryManagementSystemTesting.bundle.scp.css
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.csproj.CopyComplete
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\refint\LibraryManagementSystemTesting.dll
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.pdb
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\LibraryManagementSystemTesting.genruntimeconfig.cache
+C:\Users\Qasim\Desktop\Interview\Complete phase 1 with documentation\LibraryManagementSystemTesting\obj\Debug\net7.0\ref\LibraryManagementSystemTesting.dll

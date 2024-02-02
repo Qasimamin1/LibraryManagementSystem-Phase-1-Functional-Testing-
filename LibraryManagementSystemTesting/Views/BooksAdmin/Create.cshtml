@@ -1,0 +1,36 @@
+﻿@model LibraryManagementSystemTesting.Models.BooksAdmin
+
+@{
+    ViewData["Title"] = "Create Book";
+}
+
+<h1>Create Book</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="BookCode" class="control-label"></label>
+        <input asp-for="BookCode" class="form-control" />
+        <span asp-validation-for="BookCode" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="BookName" class="control-label"></label>
+        <input asp-for="BookName" class="form-control" />
+        <span asp-validation-for="BookName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="BookPrice" class="control-label"></label>
+        <input asp-for="BookPrice" class="form-control" />
+        <span asp-validation-for="BookPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+   @*  <a asp-action="Index" class="btn btn-back-to-list">Back to List</a> *@
+    <a asp-action="Index" class="btn btn-success">Back to List</a>
+
+
+
+</div>

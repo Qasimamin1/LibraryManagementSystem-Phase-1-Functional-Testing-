@@ -1,0 +1,38 @@
+﻿@model IEnumerable<LibraryManagementSystemTesting.Models.BooksAdmin>
+
+@{
+    ViewData["Title"] = "Books List";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Books List</h1>
+    <a asp-action="Create" class="btn btn-primary my-2">Create New Book</a> <!-- This is the Create button -->
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Book ID</th>
+            <th>Book Code</th>
+            <th>Book Name</th>
+            <th>Book Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.BookId</td>
+                <td>@book.BookCode</td>
+                <td>@book.BookName</td>
+                <td>@book.BookPrice.ToString("C")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@book.BookId" class="btn btn-success">Edit</a>
+                    <a asp-action="Details" asp-route-id="@book.BookId" class="btn btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@book.BookId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

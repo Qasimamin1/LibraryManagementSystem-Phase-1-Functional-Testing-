@@ -1,0 +1,46 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+
+ @model IEnumerable<LibraryManagementSystemTesting.Models.BooksAdmin> 
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Main Heading -->
+<div class="text-center">
+    <h1 class="display-4">Welcome To Our Book Store</h1>
+    <p class="italic" style="font-style: italic;">"Books are a uniquely portable magic." - Stephen King</p>
+</div>
+
+<!-- Books Table -->
+<div class="container mt-4">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">Book ID</th>
+                <th scope="col">Book Code</th>
+                <th scope="col">Book Name</th>
+                <th scope="col">Book Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.BookId</td>
+                    <td>@book.BookCode</td>
+                    <td>@book.BookName</td>
+                    <td>@book.BookPrice.ToString("C")</td> <!-- Format as currency -->
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
